@@ -1,0 +1,21 @@
+Dependencies for Project 'Interrupt', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5CCA3609)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I K:\keil\ARM\RV31\INC-I K:\keil\ARM\CMSIS\Include-I K:\keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x5CEECB64)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I K:\keil\ARM\RV31\INC-I K:\keil\ARM\CMSIS\Include-I K:\keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (micro_config.h)(0x5CC474DC)
+I (K:\keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (K:/keil/TExaSware/tm4c123gh6pm.h)(0x51D45492)
+I (interrupt.h)(0x477969EE)
+I (PLL.h)(0x5CB0FFBF)
+F (.\micro_config.h)(0x5CC474DC)()
+F (.\interrupt.c)(0x5CEED288)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I K:\keil\ARM\RV31\INC-I K:\keil\ARM\CMSIS\Include-I K:\keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\interrupt.o --omf_browse .\interrupt.crf --depend .\interrupt.d)
+I (interrupt.h)(0x477969EE)
+I (micro_config.h)(0x5CC474DC)
+I (K:\keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (K:/keil/TExaSware/tm4c123gh6pm.h)(0x51D45492)
+F (.\interrupt.h)(0x477969EE)()
+F (.\PLL.h)(0x5CB0FFBF)()
+F (.\PLL.c)(0x5CB0FFC0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I K:\keil\ARM\RV31\INC-I K:\keil\ARM\CMSIS\Include-I K:\keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x5CB0FFBF)
+I (micro_config.h)(0x5CC474DC)
+I (K:\keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (K:/keil/TExaSware/tm4c123gh6pm.h)(0x51D45492)

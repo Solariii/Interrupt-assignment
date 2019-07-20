@@ -1,0 +1,11 @@
+.\systick_wait1ms.o: systick_wait1ms.c
+.\systick_wait1ms.o: systick.h
+.\systick_wait1ms.o: micro_config.h
+.\systick_wait1ms.o: K:\keil\ARM\ARMCC\bin\..\include\stdint.h
+.\systick_wait1ms.o: K:/keil/TExaSware/tm4c123gh6pm.h
+.\systick_wait1ms.o: K:\keil\ARM\Inc\TI\TM4C123\tm4c123gh6pm.h
+.\systick_wait1ms.o: K:\keil\ARM\CMSIS\Include\core_cm4.h
+.\systick_wait1ms.o: K:\keil\ARM\CMSIS\Include\core_cmInstr.h
+.\systick_wait1ms.o: K:\keil\ARM\CMSIS\Include\core_cmFunc.h
+.\systick_wait1ms.o: K:\keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\systick_wait1ms.o: K:\keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
